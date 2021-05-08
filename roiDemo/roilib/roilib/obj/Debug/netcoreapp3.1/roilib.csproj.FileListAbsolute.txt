@@ -1,0 +1,9 @@
+C:\Users\DELL\Desktop\roiDemo\roilib\roilib\obj\Debug\netcoreapp3.1\roilib.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\roiDemo\roilib\roilib\obj\Debug\netcoreapp3.1\roilib.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\roiDemo\roilib\roilib\obj\Debug\netcoreapp3.1\roilib.AssemblyInfo.cs
+C:\Users\DELL\Desktop\roiDemo\roilib\roilib\obj\Debug\netcoreapp3.1\roilib.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\roiDemo\roilib\roilib\bin\Debug\netcoreapp3.1\roilib.deps.json
+C:\Users\DELL\Desktop\roiDemo\roilib\roilib\bin\Debug\netcoreapp3.1\roilib.dll
+C:\Users\DELL\Desktop\roiDemo\roilib\roilib\bin\Debug\netcoreapp3.1\roilib.pdb
+C:\Users\DELL\Desktop\roiDemo\roilib\roilib\obj\Debug\netcoreapp3.1\roilib.dll
+C:\Users\DELL\Desktop\roiDemo\roilib\roilib\obj\Debug\netcoreapp3.1\roilib.pdb

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "DjaG3BhiWhomRpPp3gqUmnokrlodNcqavrIpVfaAICW5wpk6JjF/wo8lhrgkNCRVbOC7GXLGXK92mX9CIVanrw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\DELL\\Desktop\\roiDemo\\roiDemo\\roiDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DELL\\.nuget\\packages\\materialdesigncolors\\2.0.0\\materialdesigncolors.2.0.0.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\materialdesignthemes\\4.0.0\\materialdesignthemes.4.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "roilib", "roilib\roilib.csproj", "{33E90F3B-7AEF-490E-96A0-AB45D992462F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "roiDemo", "..\roiDemo\roiDemo.csproj", "{C9D7FF0F-F785-4E05-979E-8A71D8F0182B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{33E90F3B-7AEF-490E-96A0-AB45D992462F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33E90F3B-7AEF-490E-96A0-AB45D992462F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33E90F3B-7AEF-490E-96A0-AB45D992462F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33E90F3B-7AEF-490E-96A0-AB45D992462F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9D7FF0F-F785-4E05-979E-8A71D8F0182B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9D7FF0F-F785-4E05-979E-8A71D8F0182B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9D7FF0F-F785-4E05-979E-8A71D8F0182B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9D7FF0F-F785-4E05-979E-8A71D8F0182B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FF0D5468-81EA-472E-BF6C-672CEA72F741}
+	EndGlobalSection
+EndGlobal
